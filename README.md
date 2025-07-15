@@ -1,24 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div>
-<img src="https://komarev.com/ghpvc/?username=Othman5352&style=flat-square&color=blue" alt=""/>
-  </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center">
+
+  <h1>
+  Hi, there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+    I'm Osman Daw-Elbait
 </h1>
+  </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -26,36 +17,42 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Engineer and  Business Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sudan.
+Hello! I'm a passionate Data Engineer with over 11 years of experience in the data field, including Data Engineering, Business Intelligence, and Data Analysis. 
+I specialize in designing and implementing robust data solutions using modern tools and technologies like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+🎓 I'm certified as:
 
-- :seedling: Exploring Technical Content Writing.
+- CDMP (Certified Data Management Professional)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- Microsoft Azure Data Engineer Associate
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+💡 Currently, I'm focused on advancing in the field of Data Engineering, and I’m always eager to learn and share knowledge with the community.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <!-- BI Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel" />
+
+  <!-- Azure Tools -->
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Azure Synapse" />
+  <img src="https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00B4CC?style=for-the-badge&logo=Delta&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Data%20Lakehouse-1F65A6?style=for-the-badge&logo=Azure%20DevOps&logoColor=white" alt="Data Lakehouse" />
+
+  <!-- Microsoft Stack -->
+  <img src="https://img.shields.io/badge/SSIS-D83B01?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SSIS" />
+  <img src="https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=Microsoft&logoColor=white" alt="SSAS" />
+</p>
+
 
 ---
 
@@ -63,3 +60,6 @@ I am a Data Engineer and  Business Intelligence <img src="https://media.giphy.co
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Othman5352&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Othman5352&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img src="https://komarev.com/ghpvc/?username=Othman5352&style=flat-square&color=blue" alt=""/>
+</div>
